@@ -145,7 +145,7 @@
   font-weight: 400;
   line-height: normal;
   text-transform: uppercase;
-  font-family: Raleway;
+  font-family: Raleway, Arial, Helvetica, sans-serif;
 }
 
 .bet-button:hover {
